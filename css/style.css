@@ -393,7 +393,8 @@ p.about-description{
     background-position: center center;
     margin: 10px 0;
     position: relative;
-    overflow: hidden;
+		overflow: hidden;
+		background-size: cover;
 }
 .fade-box{
     position: absolute;
